@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Grikzo Varela 👋
 
-<!--
-**grikzo/grikzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught product developer and software architect based in Venezuela.
 
-Here are some ideas to get you started:
+I combine my experience in advertising, digital marketing, and strategic growth with full-stack automation, AI, and Web3 integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently developing:
+- ⚡ **KAIROS:** Cryptocurrency market intelligence assistant with AI-powered risk analysis, smart contract auditing, alerts for large blockchain investors, and an automated fiscal engine (FIFO/LIFO).
+
+- 🛍️ **VINCCU:** Gamified business engagement and loyalty platform connecting users, merchants, and wholesalers in Venezuela through a point-of-sale discount validation system and an internal VCC economy.
+
+### 🛠️ Technologies and tools:
+
+- **Backend and database:** Supabase (PostgreSQL, RLS), Airtable, Redis.
+
+- **Automation and AI:** n8n workflows, LLM (OpenAI, Anthropic), Webhooks.
+
+- **Frontend/Applications:** React, Vite, Tailwind CSS, PWA, WordPress/Elementor.
+
+- **Growth and Analytics:** Meta/Google Ads, Conversion funnel engineering, Tokenomics.
+
+📫 Contact me at [gvarelamd.com](https://gvarelamd.com)
